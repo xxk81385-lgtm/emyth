@@ -20,7 +20,7 @@ android {
         minSdk = 26
         targetSdk = 37
         versionCode = 2
-        versionName = "Emyth 1.0.0"
+        versionName = "Wren 1.0.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 
