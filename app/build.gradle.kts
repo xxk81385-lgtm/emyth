@@ -12,11 +12,11 @@ plugins {
 }
 
 android {
-    namespace = "dev.Emyth.app"
+    namespace = "dev.emyth.app"
     compileSdk = 37
 
     defaultConfig {
-        applicationId = "dev.Wren.app"
+        applicationId = "dev.wren.app"
         minSdk = 26
         targetSdk = 37
         versionCode = 2
