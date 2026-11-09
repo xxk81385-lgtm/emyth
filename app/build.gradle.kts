@@ -12,7 +12,7 @@ plugins {
 }
 
 android {
-    namespace = "dev.emyth.app"
+    namespace = "dev.wren.app"
     compileSdk = 37
 
     defaultConfig {
